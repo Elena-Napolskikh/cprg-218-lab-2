@@ -113,3 +113,22 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Vanilla Cookies
+
+Ingredients:
+- 2/3 cup butter 
+- 1/2 cup white sugar
+- 1 egg
+- 1 TSp vanilla sugar
+- 3/4 flour
+- 1 TSp baking powder
+
+Instructions:
+1. Preheat oven to 180°C.
+2. Combine butter and white sugar in a bowl using a mixer.
+3. Add eggs, vanilla sugar, flour, and baking powder to the butter mixture.
+4. Take the baking sheets and cover it with parchment paper.
+5. Using a tablespoon, make balls of dough.
+6. Put the balls of dough on the baking sheets. 
+7. Bake for 10 to 15 minutes.
